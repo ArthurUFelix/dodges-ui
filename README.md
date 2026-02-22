@@ -1,7 +1,7 @@
 
-# Dodgetracker UI
+# Dodges UI
 
-Simple interface to consume the [Dodgetracker API](https://github.com/ArthurUFelix/dodgetracker-api). React + Tailwind CSS
+Simple interface to consume the [Dodgetracker API](https://github.com/ArthurUFelix/dodges-api). React + Tailwind CSS
 
 ## Setup
 
